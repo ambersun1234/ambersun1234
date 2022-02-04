@@ -4,4 +4,4 @@
 + [HGiga](http://www.hgiga.com/) Software Engineer Intern
 
 ## Overview statistics
-[![ambersun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambersun1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![ambersun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambersun1234&count_private=true&show_icons=true&bg_color=ffffff00&text_color=0055ff)
