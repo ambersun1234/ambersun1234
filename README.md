@@ -1,4 +1,5 @@
 ## About me
++ [1TM PTE. LTD.](https://www.1tm.io/) Software Engineer
 + [Glasnostic Inc.](https://glasnostic.com/) Software Engineer
 + [Industrial Technology Research Institute(ITRI)](https://www.itri.org.tw/) Software Engineer Intern
 + [HGiga](http://www.hgiga.com/) Software Engineer Intern
