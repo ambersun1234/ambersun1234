@@ -1,4 +1,8 @@
 ## About me
+Software Engineer\
+Backend | Cloud Native | Blockchain
+
+## Experiences
 + [1TM PTE. LTD.](https://www.1tm.io/) Backend Software Engineer
 + [Glasnostic Inc.](https://glasnostic.com/) Full-Stack Software Engineer
 + [Industrial Technology Research Institute(ITRI)](https://www.itri.org.tw/) Backend Software Engineer Intern
