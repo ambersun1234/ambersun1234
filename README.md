@@ -1,9 +1,9 @@
 ## About me
 Software Engineer | Backend | Cloud Native | Blockchain
-> Please refer to [https://ambersun1234.github.io/about](https://ambersun1234.github.io/about) for the latest resume
+> resume: [https://ambersun1234.github.io/about](https://ambersun1234.github.io/about)
 
 ## Experiences
-+ [Quants AI Inc.](https://quants.ai/) Senior Backend Software Engineer
++ [Quants AI Inc.](https://scantrader.com/) Senior Backend Software Engineer
 + [1TM PTE. LTD.](https://www.1tm.io/) Backend Software Engineer
 + [Glasnostic Inc.](https://glasnostic.com/) Full-Stack Software Engineer
 
