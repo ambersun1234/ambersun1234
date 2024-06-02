@@ -1,6 +1,6 @@
 ## About me
 Software Engineer | Backend | Cloud Native | Blockchain
-> resume: [https://ambersun1234.github.io/about](https://ambersun1234.github.io/about)
+> resume: [https://ambersun1234.github.io/about](https://ambersun1234.github.io/about/#resume)
 
 ## Experiences
 + [Quants AI Inc.](https://scantrader.com/) Senior Backend Software Engineer
